@@ -1,0 +1,16 @@
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\bin\Debug\net8.0-windows\Votacao.exe
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\bin\Debug\net8.0-windows\Votacao.deps.json
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\bin\Debug\net8.0-windows\Votacao.runtimeconfig.json
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\bin\Debug\net8.0-windows\Votacao.dll
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\bin\Debug\net8.0-windows\Votacao.pdb
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.Form1.resources
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.csproj.GenerateResource.cache
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.AssemblyInfoInputs.cache
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.AssemblyInfo.cs
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.csproj.CoreCompileInputs.cache
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.dll
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\refint\Votacao.dll
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.pdb
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\Votacao.genruntimeconfig.cache
+C:\Users\202212030020\source\repos\Votacao1.0\Votacao\obj\Debug\net8.0-windows\ref\Votacao.dll
