@@ -1,0 +1,17 @@
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\bin\Debug\net8.0-windows\LanchoNet.exe
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\bin\Debug\net8.0-windows\LanchoNet.deps.json
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\bin\Debug\net8.0-windows\LanchoNet.runtimeconfig.json
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\bin\Debug\net8.0-windows\LanchoNet.dll
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\bin\Debug\net8.0-windows\LanchoNet.pdb
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.Form1.resources
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.csproj.GenerateResource.cache
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.AssemblyInfoInputs.cache
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.AssemblyInfo.cs
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.csproj.CoreCompileInputs.cache
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.sourcelink.json
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.dll
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\refint\LanchoNet.dll
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.pdb
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\LanchoNet.genruntimeconfig.cache
+C:\Users\202212030020\source\repos\LanchoNet\LanchoNet\obj\Debug\net8.0-windows\ref\LanchoNet.dll
